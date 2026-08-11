@@ -58,8 +58,6 @@ O layout do site foi originado de um design no Figma e adaptado para um site fun
 | Projects | ![Wireframe Projects](docs/wireframes/projects.png) |
 | Contact | ![Wireframe Contact](docs/wireframes/contact.png) |
 
-> Exporte as telas do Figma para `docs/wireframes/` com esses nomes.
-
 ---
 
 ## 4. Protótipo do Front-end
@@ -68,13 +66,11 @@ O layout do site foi originado de um design no Figma e adaptado para um site fun
 
 | Tela | Captura |
 |------|---------|
-| Home / Hero | ![Protótipo Home](docs/prototipo/home.png) |
-| About | ![Protótipo About](docs/prototipo/about.png) |
-| Projects | ![Protótipo Projects](docs/prototipo/projects.png) |
-| Contact | ![Protótipo Contact](docs/prototipo/contact.png) |
-| Mobile (menu aberto) | ![Protótipo Mobile](docs/prototipo/mobile.png) |
-
-> Salve as capturas de tela em `docs/prototipo/` com esses nomes.
+| Home / Hero | ![Protótipo Home](docs/prototipos/home.png) |
+| About | ![Protótipo About](docs/prototipos/about.png) |
+| Projects | ![Protótipo Projects](docs/prototipos/projects.png) |
+| Contact | ![Protótipo Contact](docs/prototipos/contact.png) |
+| Mobile (menu aberto) | ![Protótipo Mobile](docs/prototipos/mobile.png) |
 
 ---
 
