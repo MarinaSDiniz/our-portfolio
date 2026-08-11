@@ -49,7 +49,7 @@ O portfólio foi desenhado como uma experiência **single-page**, limpa, moderna
 
 O layout do site foi originado de um design no Figma e adaptado para um site funcional.
 
-🔗 **Link do projeto no Figma:** <COLE AQUI O LINK PÚBLICO DO FIGMA>
+🔗 **Link do projeto no Figma:** [Link do figma](https://www.figma.com/design/6MuKnq2NU1eqeVKPuGo5Ng/novo-portfolio?node-id=0-1&t=78VPnEboxuxsaq8J-1)
 
 | Seção | Wireframe |
 |-------|-----------|
