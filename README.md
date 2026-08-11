@@ -40,7 +40,7 @@ O portfólio foi desenhado como uma experiência **single-page**, limpa, moderna
 | Nome | Função | GitHub |
 |------|--------|--------|
 | Caio Felix Reis | <FUNÇÃO> | [@caiofelixreis](https://github.com/caiofelixreis) |
-| Mariana Tavares | <FUNÇÃO> | [@<USER>](https://github.com/<USER>) |
+| Mariana Tavares | <FUNÇÃO> | [@Mari492](https://github.com/Mari492) |
 | Marina Diniz | <FUNÇÃO> | [@MarinaSDiniz](https://github.com/MarinaSDiniz) |
 
 ---
