@@ -1,0 +1,41 @@
+# .gitignore
+
+# Ignore node_modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build output
+dist/
+pnpm-workspace.yaml
+
+# Ignore environment files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore TypeScript build output
+*.tsbuildinfo   
+
+# Ignore coverage reports
+coverage/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore package-lock.json and yarn.lock
+package-lock.json
+yarn.lock
+package.json
+
+# Ignore other files
+vite.config.ts
+postcss.config.mjs
+ATTRIBUTION.md
+
