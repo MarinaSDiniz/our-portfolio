@@ -2,7 +2,7 @@
 
 > Portfólio web colaborativo — apresentação profissional, projetos e contato em uma experiência single-page.
 
-Projeto desenvolvido para a disciplina de <NOME DA DISCIPLINA> — <CURSO>, PUC <CAMPUS>, <SEMESTRE/ANO>.
+Projeto desenvolvido para a disciplina de Laboratório de Desenvolvimento de Software — Engenharia de Software, PUC Coreu, 4º/2026.
 
 ---
 
@@ -196,10 +196,10 @@ O projeto é configurado para GitHub Pages através do campo `homepage` no `pack
 ## 9. Status de Entrega — Etapa 1
 
 - [x] Criação do repositório GitHub com README inicial
-- [ ] Wireframes das páginas no Figma (média fidelidade)
-- [x] Protótipo inicial do front-end (React + TypeScript + Vite + Tailwind)
-- [x] Implementação da navegação (seções e links entre elas)
-- [x] Implementação do layout principal (cabeçalho, rodapé e área de conteúdo)
+- [x] Wireframes das páginas no Figma (média fidelidade)
+- [ ] Protótipo inicial do front-end (React + TypeScript + Vite + Tailwind)
+- [ ] Implementação da navegação (seções e links entre elas)
+- [ ] Implementação do layout principal (cabeçalho, rodapé e área de conteúdo)
 - [ ] README com imagens dos protótipos, descrição, tecnologias e estrutura
 
 ---
