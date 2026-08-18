@@ -42,7 +42,7 @@ O portfólio foi desenhado como uma experiência **single-page**, limpa, moderna
 | Caio Felix Reis | <FUNÇÃO> | [@caiofelixreis](https://github.com/caiofelixreis) |
 | Mariana Tavares | <FUNÇÃO> | [@Mari492](https://github.com/Mari492) |
 | Marina Diniz | <FUNÇÃO> | [@MarinaSDiniz](https://github.com/MarinaSDiniz) |
-| Milena Araújo |<FUNÇÃO> |                |
+| Milena Araújo |<FUNÇÃO> | [@milenacrd](https://github.com/milenacrd)|
 
 ---
 
