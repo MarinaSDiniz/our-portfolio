@@ -29,13 +29,9 @@ coverage/
 # Ignore temporary files
 *.tmp
 
-# Ignore package-lock.json and yarn.lock
-package-lock.json
+# Ignore lockfiles alternativos
 yarn.lock
-package.json
 
 # Ignore other files
-vite.config.ts
-postcss.config.mjs
 ATTRIBUTION.md
 
